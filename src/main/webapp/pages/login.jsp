@@ -28,8 +28,8 @@
                         <td><input type="password" name="secret" value="" /></td>
                     </tr>
                     <tr>
-                        <td><input type="submit" value="Login" /></td>
-                        <td><input type="reset" value="Reset" /></td>
+                        <td><input type="submit" value="signin"</td>
+                        <td><input type="reset" value="change"/td>
                     </tr>
                     <tr>
                         <td colspan="2">New User <a href="register">Register Here</a></td>
